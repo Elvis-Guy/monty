@@ -53,7 +53,7 @@ Run: `./monty [monty_type_file]`
 ## Authors
 
 
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Elvis Guy Bakunzi** - [Elivs Guy](https://github.com/Elvis-Guy)
 
 
 -----
