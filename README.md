@@ -53,7 +53,7 @@ Run: `./monty [monty_type_file]`
 ## Authors
 
 
-* **Elvis Guy Bakunzi** - [Elivs Guy](https://github.com/Elvis-Guy)
+* **Elvis Guy Bakunzi** - [Elvis Guy](https://github.com/Elvis-Guy)
 
 
 -----
